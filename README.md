@@ -4,37 +4,21 @@ Overview
 
 Twinsta is an Expo-based social media application built with React Native and TypeScript. It features photo sharing, real-time chat, user search, and engagement tools like likes, comments, and following. The app uses Clerk for authentication and Convex for a real-time backend, supporting iOS and Android.
 
+
+
+
 Student Details:
-
-
-
-
-
 Name: Khaled Elsayed
 
 
-
-Student ID: 2104553
-
-
-
-Course: COP4468 (Cross-Platform App Development)
 
 Get Started
 
 Prerequisites
 
-
-
-
-
 Node.js (v16 or later)
 
-
-
 Expo CLI
-
-
 
 Android emulator (e.g., Android Studio) or iOS simulator (e.g., Xcode)
 
